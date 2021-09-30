@@ -101,7 +101,7 @@ a:hover{
 }
 .resH2 {
     text-decoration: underline;
-    font: size 35px;
+    font-size: 35px;
     padding: 20px;
 }
 .resH3 {
@@ -113,9 +113,7 @@ padding-left: 50%;
 width: 400px;
 height: 400px;
 }
-.profil{
-    float: center;
-}
+
 #p3{
     font-size: 20px;
     padding: 20px;
